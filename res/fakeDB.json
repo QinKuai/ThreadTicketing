@@ -1,0 +1,27 @@
+{
+    "routines": [{
+            "routineNumber": "G89",
+            "from": "Beijingxi",
+            "to": "Chengdudong",
+            "price": 778.5
+        },
+        {
+            "routineNumber": "G308",
+            "from": "Chengdudong",
+            "to": "Beijingxi",
+            "price": 778.5
+        },
+        {
+        	"routineNumber": "C6302",
+            "from": "Meishandong",
+            "to": "Chengdudong",
+            "price": 33.0
+        },
+        {
+        	"routineNumber": "D4109",
+            "from": "Chengdudong",
+            "to": "Meishandong",
+            "price": 33.0
+        }
+    ]
+}
